@@ -17,9 +17,31 @@ Kısa bir açıklama ve proje ile ilgili anahtar detaylar.
 Kısa bir açıklama ve proje ile ilgili anahtar detaylar.
 
 ### İletişim
-- E-posta: ![E-posta](https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png) [gorkemarslanbogan@gmail.com](mailto:gorkemarslanbogan@gmail.com)
-- LinkedIn: ![LinkedIn](linkedin.png) [LinkedIn Profilim](https://www.linkedin.com/in/kullanici/)
-- Twitter: ![Twitter]([twitter.png](https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000)) [@gorkemarslnbgn](https://twitter.com/gorkemarslnbgn)
+<p align="center">
+    <a href="mailto:gorkemarslanbogan@gmail.com">
+        <img src="[https://example.com/email.png](https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png)" alt="E-posta" width="80px" />
+    </a>
+    <a href="https://www.linkedin.com/in/kullanici/">
+        <img src="https://example.com/linkedin.png" alt="LinkedIn" width="80px" />
+    </a>
+    <a href="https://twitter.com/gorkemarslnbgn">
+        <img src="[https://example.com/twitter.png](https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000)" alt="Twitter" width="80px" />
+    </a>
+</p>
+
+### Diğer Bilgiler
+- Lisans: Bilgisayar Mühendisliği (Örnek Üniversite)
+- Mezuniyet Yılı: 20XX
+
+---
+
+_Sayfamı ziyaret ettiğiniz için teşekkür ederim! Daha fazla içerik ve projeler için GitHub profilimi inceleyebilirsiniz._
+Yukarıdaki örnekte, resimleri internetten çekebilir ve uygun URL'leri kullanarak profilinizde kullanabilirsiniz. Dikkat etmeniz gereken, resim URL'lerinin doğru olduğundan emin olmaktır.
+
+
+
+
+
 
 ### Diğer Bilgiler
 - Lisans: Bilgisayar Mühendisliği (İskenderun Teknik Üniversitesi)
