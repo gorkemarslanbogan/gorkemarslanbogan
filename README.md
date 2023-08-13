@@ -1,11 +1,20 @@
 <h1 align="center">Hi 👋, I'm Gorkem Arslanbogan</h1>
 <h3 align="center">I am a Computer Engineering student in my 4th year at Iskenderun Technical University. Over the past 2 years, I have been dedicated to honing my skills in mobile application development. I have a strong passion for creating user-friendly and impactful interfaces that enhance the overall user experience. Technologically curious, I have been exploring a variety of tools and languages. I am particularly drawn to Java, Kotlin, and Flutter for mobile app development. My interest also extends to backend development with Node.js and database management using SQL. As I continue my academic journey, I am excited to further my knowledge and contribute to innovative projects that make a difference. Feel free to connect with me on LinkedIn or explore my GitHub profile to learn more about my work and projects.</h3>
 
+- 🔭 I’m currently working on **I'm currently working on a new mobile app that focuses on language learning.**
+
+- 🌱 I’m currently learning **Kotlin, Java, Flutter**
+
+- 👯 I’m looking to collaborate on **I'm looking to collaborate on open-source software projects to contribute to the community.**
+
 - 📝 I regularly write articles on [https://medium.com/@mavisimsek940](https://medium.com/@mavisimsek940)
 
 - 💬 Ask me about **Java, Kotlin, Flutter**
 
 - 📫 How to reach me **gorkemarslanbogan@gmail.com**
+<p align="left">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Örnek GIF" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
